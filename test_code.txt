@@ -1,0 +1,4 @@
+# This is some test code, keep it simple to help me understand git and gitlab
+
+TEST_TEXT="This is the initial text, before any git changes"
+echo $TEST_TEXT
